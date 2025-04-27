@@ -64,7 +64,7 @@ Clone the repository to your local machine:
 git clone https://github.com/Bharathsivanesh/study_planner.git
 cd study_planner
 ```
-###Install Dependencies
+### Install Dependencies
 *Backend
   Navigate to the server folder:
   cd server
@@ -77,19 +77,19 @@ cd study_planner
   Install frontend dependencies: 
   npm install
 
-###Environment Variables
+### Environment Variables
 Create a .env file in the server folder and provide the following variables:
 
 MONGO_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/study_planner
 JWT_SECRET=your_jwt_secret_key
 PORT=5000
 
-###For the Python AI model:
+### For the Python AI model:
 *Install the necessary Python libraries:
 *pip install fastapi uvicorn pymongo==4.6.1 python-dotenv
 *Set up the .env file for Python with your MongoDB credentials.
 
-###Run the Application
+### Run the Application
 Navigate to the server directory:
 cd server
 Start the backend server:npm start
@@ -99,14 +99,14 @@ Navigate to the client directory:
 cd client
 Start the Frontend server:npm start
 
-###Access the Application
+### Access the Application
 Once the servers are running:
 
 *Open your browser and go to http://localhost:3000 for the frontend.
 
 *The backend runs on http://localhost:5000.
 
-###Contributing
+### Contributing
 
 Contributions are welcome! If you have ideas, encounter any issues, or would like to improve the project, feel free to:
 
