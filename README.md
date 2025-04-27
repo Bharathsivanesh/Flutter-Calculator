@@ -128,9 +128,9 @@ Start the Frontend server:
 
 Once the servers are running:
 
-\* Open your browser and go to `http://localhost:3000` for the frontend.
+- Open your browser and go to `http://localhost:5173` for the frontend.
 
-\* The backend runs on `http://localhost:5000`.
+- The backend runs on `http://localhost:5000`.
 
 ### Contributing
 
