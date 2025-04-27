@@ -68,21 +68,21 @@ cd study_planner
 
 -   **Backend**
 
-    \* Navigate to the server folder:
+    Navigate to the server folder:
 
         `cd server`
 
-    \* Install backend dependencies:
+    Install backend dependencies:
 
         `npm install`
 
 -   **Frontend**
 
-    \* Navigate to the client folder:
+    Navigate to the client folder:
 
         `cd client`
 
-    \* Install frontend dependencies:
+    Install frontend dependencies:
 
         `npm install`
 
@@ -98,11 +98,11 @@ Create a `.env` file in the `server` folder and provide the following variables:
 
 ### For the Python AI model:
 
-\* Install the necessary Python libraries:
+- Install the necessary Python libraries:
 
     `pip install fastapi uvicorn pymongo==4.6.1 python-dotenv`
 
-\* Set up the `.env` file for Python with your MongoDB credentials.
+- Set up the `.env` file for Python with your MongoDB credentials.
 
 ### Run the Application
 
