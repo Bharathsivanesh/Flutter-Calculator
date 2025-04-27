@@ -2,8 +2,8 @@
 A smart and AI-driven study planner that prioritizes learning topics based on exam dates, difficulty levels, and learning history.
 
 ## Table of Contents
-- [Project Overview](#project-overview)
-- [Features](#features)
+- [Project Overview]
+- [Features]
   - [User Features](#user-features)
   - [AI Features](#ai-features)
 - [Tech Stack](#tech-stack)
