@@ -8,7 +8,6 @@ A smart and AI-driven study planner that prioritizes learning topics based on ex
   - AI Features
 - Tech Stack
 - Setup Instructions
-- Folder Structure
 - Contributing
 - License
 
