@@ -90,10 +90,10 @@ cd study_planner
 
 Create a `.env` file in the `server` folder and provide the following variables:
 
-
-MONGO_URI=mongodb+srv://:@cluster.mongodb.net/study_planner
-JWT_SECRET=your_jwt_secret_key
-PORT=5000
+- GOOGLE_CLIENT_SECRET=your-google-client-secret-here
+- GOOGLE_OAUTH=your-google-oauth-client-id-here
+- CONNECTION_URL=your-mongodb-connection-url-here
+- PORT=5000
 
 
 ### For the Python AI model:
