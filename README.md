@@ -1,5 +1,5 @@
 # AI Study Planner 🎯
-A smart and AI-driven study planner that prioritizes learning topics based on exam dates, difficulty levels, and learning history.
+A smart and AI-driven study planner that prioritizes learning topics based on exam dates, difficulty levels, and learning history
 
 ## Table of Contents
 - Project Overview
