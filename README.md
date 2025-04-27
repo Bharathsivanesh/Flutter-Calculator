@@ -17,9 +17,8 @@ The **AI Study Planner** is an intelligent application designed to help students
 
 ### Key Features:
 - **Prioritization System**: Ranks study topics based on exam dates, difficulty, and user history.
-- **AI Integration**: Uses a Python-based AI model to enhance the prioritization system.
-- **User Profiles**: Allows users to track their study progress and history.
-- **Mobile Integration**: Future enhancements may include mobile app integration for on-the-go learning.
+- **AI Integration**:Implements a Python-based intelligent logic for topic prioritization.
+- **User Profiles**: Allows users to track their study progress and Notification.
 
 ## Features
 
@@ -30,8 +29,9 @@ The **AI Study Planner** is an intelligent application designed to help students
 - **Notifications**: Receive notifications on upcoming exams and deadlines.
 
 ### AI Features
-- **Prioritize Study Topics**: The AI model ranks the topics based on exam schedules, difficulty, and learning progress.
-- **Learning Model**: The AI continuously learns from user input and performance to improve suggestions over time.
+- **Prioritize Study Topics**: A Python-based intelligent logic ranks study topics based on exam schedules, difficulty levels, and user progress.
+- **Smart Scheduling Algorithm**: The system dynamically updates study recommendations using rule-based calculations — ensuring optimized revision without a machine learning model.
+
 
 ## Tech Stack
 
@@ -54,7 +54,7 @@ The **AI Study Planner** is an intelligent application designed to help students
 
 ### Prerequisites
 Ensure you have the following installed:
-- **Node.js** (v14+ recommended) - [Download Node.js](https://nodejs.org)
+- **Node.js** - [Download Node.js](https://nodejs.org)
 - **MongoDB** - [Set up MongoDB](https://www.mongodb.com/)
 - **Python** (for AI model) - [Download Python](https://www.python.org/)
 
