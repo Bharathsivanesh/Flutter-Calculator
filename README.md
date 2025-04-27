@@ -65,13 +65,13 @@ git clone https://github.com/Bharathsivanesh/study_planner.git
 cd study_planner
 ```
 ### Install Dependencies
-*Backend
+- Backend
   Navigate to the server folder:
   cd server
   Install backend dependencies:
   npm install
 
-*Frontend
+- Frontend
   Navigate to the client folder:
   cd client
   Install frontend dependencies: 
