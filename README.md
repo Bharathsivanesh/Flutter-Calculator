@@ -2,15 +2,15 @@
 A smart and AI-driven study planner that prioritizes learning topics based on exam dates, difficulty levels, and learning history.
 
 ## Table of Contents
-- [Project Overview]
-- [Features]
-  - [User Features](#user-features)
-  - [AI Features](#ai-features)
-- [Tech Stack](#tech-stack)
-- [Setup Instructions](#setup-instructions)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
+- Project Overview
+- Features
+  - User Features
+  - AI Features
+- Tech Stack
+- Setup Instructions
+- Folder Structure
+- Contributing
+- License
 
 ## Project Overview
 The **AI Study Planner** is an intelligent application designed to help students manage their study schedules based on their exams, the difficulty of subjects, and their learning progress. The system uses an AI prioritization model to suggest topics and study strategies that maximize productivity and learning.
