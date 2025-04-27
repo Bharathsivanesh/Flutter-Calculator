@@ -136,11 +136,11 @@ Once the servers are running:
 
 Contributions are welcome! If you have ideas, encounter any issues, or would like to improve the project, feel free to:
 
-1.  Fork the repository.
-2.  Create a feature branch: `git checkout -b feature-name`
-3.  Commit your changes: `git commit -m "Description of feature/bug fix"`
-4.  Push the branch: `git push origin feature-name`
-5.  Open a Pull Request.
+- Fork the repository.
+- Create a feature branch: `git checkout -b feature-name`
+- Commit your changes: `git commit -m "Description of feature/bug fix"`
+- Push the branch: `git push origin feature-name`
+- Open a Pull Request.
 
 ### License
 
