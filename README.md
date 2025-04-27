@@ -64,58 +64,84 @@ Clone the repository to your local machine:
 git clone https://github.com/Bharathsivanesh/study_planner.git
 cd study_planner
 ```
-### Install Dependencies
-- Backend
-  Navigate to the server folder:
-  cd server
-  Install backend dependencies:
-  npm install
+### Installation Guide
 
-- Frontend
-  Navigate to the client folder:
-  cd client
-  Install frontend dependencies: 
-  npm install
+-   **Backend**
+
+    \* Navigate to the server folder:
+
+        `cd server`
+
+    \* Install backend dependencies:
+
+        `npm install`
+
+-   **Frontend**
+
+    \* Navigate to the client folder:
+
+        `cd client`
+
+    \* Install frontend dependencies:
+
+        `npm install`
 
 ### Environment Variables
-Create a .env file in the server folder and provide the following variables:
 
-MONGO_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/study_planner
+Create a `.env` file in the `server` folder and provide the following variables:
+
+
+MONGO_URI=mongodb+srv://:@cluster.mongodb.net/study_planner
 JWT_SECRET=your_jwt_secret_key
 PORT=5000
 
+
 ### For the Python AI model:
-*Install the necessary Python libraries:
-*pip install fastapi uvicorn pymongo==4.6.1 python-dotenv
-*Set up the .env file for Python with your MongoDB credentials.
+
+\* Install the necessary Python libraries:
+
+    `pip install fastapi uvicorn pymongo==4.6.1 python-dotenv`
+
+\* Set up the `.env` file for Python with your MongoDB credentials.
 
 ### Run the Application
+
 Navigate to the server directory:
-cd server
-Start the backend server:npm start
+
+`cd server`
+
+Start the backend server:
+
+`npm start`
 
 Frontend
+
 Navigate to the client directory:
-cd client
-Start the Frontend server:npm start
+
+`cd client`
+
+Start the Frontend server:
+
+`npm start`
 
 ### Access the Application
+
 Once the servers are running:
 
-*Open your browser and go to http://localhost:3000 for the frontend.
+\* Open your browser and go to `http://localhost:3000` for the frontend.
 
-*The backend runs on http://localhost:5000.
+\* The backend runs on `http://localhost:5000`.
 
 ### Contributing
 
 Contributions are welcome! If you have ideas, encounter any issues, or would like to improve the project, feel free to:
 
-1)Fork the repository.
-2)Create a feature branch: git checkout -b feature-name
-3)Commit your changes:
-git commit -m "Description of feature/bug fix"
-4)Push the branch:
-git push origin feature-name
-5)Open a Pull Request.
-License
-This project is licensed under the MIT License. You are free to use, modify, and distribute it for personal or commercial use.
+1.  Fork the repository.
+2.  Create a feature branch: `git checkout -b feature-name`
+3.  Commit your changes: `git commit -m "Description of feature/bug fix"`
+4.  Push the branch: `git push origin feature-name`
+5.  Open a Pull Request.
+
+### License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute it for pers
